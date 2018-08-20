@@ -1,0 +1,54 @@
+E:\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe.config
+E:\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe
+E:\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.pdb
+E:\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csprojResolveAssemblyReference.cache
+E:\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Form1.resources
+E:\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Properties.Resources.resources
+E:\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csproj.GenerateResource.Cache
+E:\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.exe
+E:\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.pdb
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe.config
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.exe
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.pdb
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.pdb
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Form1.resources
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Properties.Resources.resources
+C:\Users\Umair Munir Ahmad\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csproj.GenerateResource.Cache
+E:\New folder\Final\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe.config
+E:\New folder\Final\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.exe
+E:\New folder\Final\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.pdb
+E:\New folder\Final\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe
+E:\New folder\Final\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.pdb
+E:\New folder\Final\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csprojResolveAssemblyReference.cache
+E:\New folder\Final\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Form1.resources
+E:\New folder\Final\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Properties.Resources.resources
+E:\New folder\Final\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csproj.GenerateResource.Cache
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe.config
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.exe
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.pdb
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.pdb
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Form1.resources
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Properties.Resources.resources
+C:\Users\Marrie\Desktop\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csproj.GenerateResource.Cache
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe.config
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.exe
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.pdb
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.pdb
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Form1.resources
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Properties.Resources.resources
+C:\Users\Marrie\Desktop\2012-CS-141\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csproj.GenerateResource.Cache
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe.config
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.exe
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.pdb
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.exe
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\bin\Debug\Query Analyzer.pdb
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csprojResolveAssemblyReference.cache
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Form1.resources
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\obj\Debug\Query_Analyzer.Properties.Resources.resources
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Query Analyzer\Query Analyzer\obj\Debug\Query Analyzer.csproj.GenerateResource.Cache

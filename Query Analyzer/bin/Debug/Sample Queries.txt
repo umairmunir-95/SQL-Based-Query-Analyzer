@@ -1,0 +1,15 @@
+create table table_name (column_name data type, column_name data type,………) ;
+				Example: create table Employees (ID int,name varchar) ;
+delete table_name ;								
+				Example: delete cs12 ;
+delete from table_name where column_name = value ;
+				Example: delete from cs12 where id = 109 ;
+insert into table_name values (value,value) ;
+				Example: insert into cs12 values (141,'Umair') ;
+select * from table_name ;
+				Example: select * from cs12 ;
+select column_name,column_name,….. from table_name ;	
+				Example: select name,city from student ;
+update table_name set colum_name = value where colum_name = value ;   
+		 		Example: update cs12 set name = Umair where id = 141 ;
+
